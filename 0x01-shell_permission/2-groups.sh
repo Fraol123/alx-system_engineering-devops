@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $groups root
+echo  "$(groups)"
