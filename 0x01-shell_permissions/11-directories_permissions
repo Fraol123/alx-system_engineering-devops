@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 111 /alx-system_engineering-devops/0x01-shell_permission
