@@ -1,18 +1,38 @@
-total 64
--rw-r--r-- 1 root root   39 Jan 30 19:36 #README.md#
-drwxr-xr-x 2 root root 4096 Jan 30 19:57 .
-drwxr-xr-x 6 root root 4096 Jan 30 19:36 ..
--rwxr-xr-x 1 root root   31 Jan 30 19:36 0-hello_world.sh
--rwxr-xr-x 1 root root   39 Jan 30 19:36 1-confused_smiley.sh
--rwxr-xr-x 1 root root   35 Jan 30 19:36 2-hellofile.sh
--rwxr-xr-x 1 root root   39 Jan 30 19:36 3-twofiles.sh
--rwxr-xr-x 1 root root   34 Jan 30 19:36 4-lastlaines.sh
--rwxr-xr-x 1 root root   34 Jan 30 19:36 5-firstlines.sh
--rwxr--r-- 1 root root   36 Jan 30 19:45 6-third_line.sh
--rwxr--r-- 1 root root   88 Jan 30 19:52 7-file.sh
--rwxr--r-- 1 root root   88 Jan 30 19:50 7-file.sh~
--rwxr--r-- 1 root root   36 Jan 30 19:56 8-cwd_state.sh
--rw-r--r-- 1 root root 1680 Jan 30 19:36 README.md
--rw-r--r-- 1 root root   17 Jan 30 19:51 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root   81 Jan 30 19:48 iacta
--rw-r--r-- 1 root root    0 Jan 30 19:57 ls_cwd_content
+total 140
+-rw-r--r-- 1 root root   39 Jan 31 13:57 #README.md#
+drwxr-xr-x 2 root root 4096 Jan 31 15:18 .
+drwxr-xr-x 6 root root 4096 Jan 31 13:57 ..
+-rwxr--r-- 1 root root   37 Jan 31 15:01 0-hello_world
+-rwxr--r-- 1 root root   38 Jan 31 15:03 1-confused_smiley
+-rwxr-xr-x 1 root root   46 Jan 31 13:57 10-no_more_js.sh
+-rwxr-xr-x 1 root root   52 Jan 31 13:57 11-directories.sh
+-rwxr-xr-x 1 root root   37 Jan 31 13:57 12-newest_files.sh
+-rwxr-xr-x 1 root root   56 Jan 31 13:57 13-unique.sh
+-rwxr-xr-x 1 root root   27 Jan 31 13:57 13-unique.sh~
+-rwxr-xr-x 1 root root   36 Jan 31 13:57 14-findthatword.sh
+-rwxr-xr-x 1 root root   38 Jan 31 13:57 15-countthatword.sh
+-rwxr-xr-x 1 root root   41 Jan 31 13:57 16-whatsnext.sh
+-rwxr-xr-x 1 root root   40 Jan 31 13:57 17-hidethisword.sh
+-rwxr-xr-x 1 root root   53 Jan 31 13:57 18-letteronly.sh~
+-rwxr-xr-x 1 root root   30 Jan 31 13:57 19-Az.sh
+-rwxr-xr-x 1 root root   31 Jan 31 13:57 19-Az.sh~
+-rwxr--r-- 1 root root   32 Jan 31 15:06 2-hellofile
+-rw-r--r-- 1 root root    0 Jan 31 13:57 20-hiago.sh
+-rwxr-xr-x 1 root root   29 Jan 31 13:57 21-reverse.sh
+-rwxr-xr-x 1 root root   48 Jan 31 13:57 22-users_and_homes.sh
+-rwxr--r-- 1 root root   38 Jan 31 15:09 3-twofiles
+-rwxr--r-- 1 root root   38 Jan 31 15:08 3-twofiles~
+-rwxr--r-- 1 root root   33 Jan 31 15:10 4-lastlaines
+-rwxr-xr-x 1 root root   34 Jan 31 13:57 4-lastlaines.sh
+-rwxr-xr-x 1 root root   34 Jan 31 13:57 5-firstlines.sh
+-rw-r--r-- 1 root root   35 Jan 31 15:13 6-third_line
+-rwxr-xr-x 1 root root   36 Jan 31 13:57 6-third_line.sh
+-rwxr--r-- 1 root root   87 Jan 31 15:14 7-file
+-rwxr--r-- 1 root root   35 Jan 31 15:18 8-cwd_state
+-rwxr-xr-x 1 root root   36 Jan 31 13:57 8-cwd_state.sh
+-rwxr-xr-x 1 root root   45 Jan 31 13:57 9-duplicate_last_line.sh
+-rw-r--r-- 1 root root   36 Jan 31 13:57 AZ.sh
+-rw-r--r-- 1 root root 1680 Jan 31 13:57 README.md
+-rw-r--r-- 1 root root   17 Jan 31 15:14 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  176 Jan 31 13:57 catlist
+-rw-r--r-- 1 root root    0 Jan 31 15:18 ls_cwd_content
