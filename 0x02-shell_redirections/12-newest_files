@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t | head |sort|uniq
+ls -1t | head -10
