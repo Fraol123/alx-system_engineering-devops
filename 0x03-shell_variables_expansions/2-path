@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "PATH=$PATH:/action"
+echo -e "PATH=$PATH:/action\n"
