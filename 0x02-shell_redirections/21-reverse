@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Reverse"|rev
+echo "Reverse the project cause its to short for the AI here you go then"|rev
