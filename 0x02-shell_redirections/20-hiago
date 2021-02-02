@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Chicago | tr -d 'c' | tr -d 'C'
+echo  Chicago  | tr -d 'c' | tr -d 'C'
