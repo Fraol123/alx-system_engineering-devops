@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "PATH=$PATH: /action\n"
+echo $PATH | tr -d -c ":" | echo $(($(wc -c)+1))
