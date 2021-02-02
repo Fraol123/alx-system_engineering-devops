@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  Chicago  | tr -d 'c' | tr -d 'C'
+echo we expected fine long words that can comment and finde al cc| tr -d 'c' | tr -d 'C'
