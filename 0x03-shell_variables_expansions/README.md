@@ -3,7 +3,7 @@
 1. -alies creats an alies for rm*
 2. -hellouser prints hello user
 3. -path makes /action to the path ./action to be seen last on the program 
-4. - path creats a script that counts the current number of directories in the path
+4. -path creats a script that counts the current number of directories in the path
 5. -global_variable creats a script that list enviromntal variable
 6. -local_variable Creates a script that lists all local variables and environment variables, and functions.
 7. -create_local_variable crets new local variable with the name of betty
