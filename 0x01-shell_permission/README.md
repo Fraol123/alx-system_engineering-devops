@@ -1,17 +1,20 @@
-0-iam_betty.sh changesuser name to betty
-1-who_am_i.sh prints id 
-2-group.sh shows user groups
-3-new_owner.sh changes owner of file hello to betty 
-4-empty.sh created empty file called hello
-5-excute.sh adds excute permission for owner of hello file 
-6-multiple_permission.sh adds excute permission to the owner & group owner read permisssion to other users to the file hello
-7-everybody.sh adds excute permission to everyboady to the file hello
-8-James_Bond.sh  permission to the file hello owner(no permission at all),group owner((no permission ),otherusers all the permission 
-9-John_doe.sh sets the file hello to 753 permission
-10-mirror_permisssion.sh makes the file hello permission the same as olleh
-11-directories_permissio.sh adds excute permission to subsideries directories for the owner ,group owner and all others 
-12-directory_permission.sh creats directory dir_holberton with 751 permission 
-13-change-group.sh change file owner of hello to holberton 
-14-change _owner_and_group.sh changes owner to betty group owner to holberton for all fies and directories
-15-symbolic_link_permission.sh changes owner & group owner to the file _hello to betty 
-16-if_only.sh changes the owner of the file hello to betty if it is owned by guillaume 
+**shell_permission** 
+===============
+
+1.   0-iam_betty.sh changesuser name to betty
+2.   1-who_am_i.sh prints id 
+3.   2-group.sh shows user groups
+4.   3-new_owner.sh changes owner of file hello to betty 
+5.   4-empty.sh created empty file called hello
+6.   5-excute.sh adds excute permission for owner of hello file 
+7.   6-multiple_permission.sh adds excute permission to the owner & group owner read permisssion to other users to the file hello
+8.   7-everybody.sh adds excute permission to everyboady to the file hello
+9.   8-James_Bond.sh  permission to the file hello owner(no permission at all),group owner((no permission ),otherusers all the permission 
+10.  9-John_doe.sh sets the file hello to 753 permission
+11. 10-mirror_permisssion.sh makes the file hello permission the same as olleh
+12. 11-directories_permissio.sh adds excute permission to subsideries directories for the owner ,group owner and all others 
+13. 12-directory_permission.sh creats directory dir_holberton with 751 permission 
+14. 13-change-group.sh change file owner of hello to holberton 
+15. 14-change _owner_and_group.sh changes owner to betty group owner to holberton for all fies and directories
+16. 15-symbolic_link_permission.sh changes owner & group owner to the file _hello to betty 
+17. 16-if_only.sh changes the owner of the file hello to betty if it is owned by guillaume 
