@@ -6,4 +6,4 @@ comand line challenge
 - 9 - 18 task complited
 - 18- 27 task complited
 
-these challenge is done in [https://cmdchallenge.com/#/print_nth_line]
+these challenge is done in [Cmd challenge](https://cmdchallenge.com/#/print_nth_line)
