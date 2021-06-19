@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# using while loop wear 4, 9 and 17 are replced
+
+declare -i idx=1
+while (( idx < 21 ))
+do
+   echo "$idx"
+   case "$idx" in 
+   4)
+   	echo "bad luck from China"
+	;;
+   9)
+	echo "bad luck from Japan"
+	;;
+   17)
+        echo "bad luck from Italy"
+	;;
+   esac
+   ((idx++))
+done
