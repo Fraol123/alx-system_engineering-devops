@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# print the content of a /etc/passwd
+
+while read passwd; do
+	echo "$passwd" | cut -d ':' -f1,3,6
+done < "/etc/passwd"
