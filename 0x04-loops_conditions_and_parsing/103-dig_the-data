@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# parses Apache log files in list format
+# groups vistores by IP and HTTP status code.
+# show the number of occurances, IP, and HTTP status
+# code of each log, in sorted order
+
+awk '{print $1 " " $9}' apache-access.log |sort | uniq -c | sort -rn
