@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# gives basic information about a given file
+# gives information about a given file
 
 if [[ -e "holbertonschool" ]]
 then
