@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# print holberton school 10 times using until
+
+declare -i idx=0
+
+until (( idx == 10 ))
+do
+    echo "Holberton School"
+    (( idx++ ))
+done
