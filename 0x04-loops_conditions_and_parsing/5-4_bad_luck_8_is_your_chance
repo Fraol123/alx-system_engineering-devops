@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# using while loop wear 4 and 8 are replced
+
+declare -i idx=0
+while (( idx < 10 ))
+do
+    if ((idx == 3))
+    then 
+	echo "bad luck"
+    elif ((idx == 7))
+    then 
+	echo "good luck"
+    else
+	echo "Holberton School"
+    fi
+      ((idx++))
+done
