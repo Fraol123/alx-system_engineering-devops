@@ -14,7 +14,7 @@ printf %s "server {
     root   /etc/nginx/html;
     index  index.html index.htm;
     location /redirect_me {
-        return 301 http://cuberule.com/;
+        return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;
     }
 }" > /etc/nginx/sites-available/default
 
