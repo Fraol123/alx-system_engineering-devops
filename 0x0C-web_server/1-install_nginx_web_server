@@ -14,7 +14,7 @@ printf %s "server {
      listen      80 default_server;
      listen      [::]:80 default_server;
      root        /etc/nginx/html;
-     index       index.html index.htm;
+     index       index.html index.html;
 }
 " > /etc/nginx/sites-available/default
 
